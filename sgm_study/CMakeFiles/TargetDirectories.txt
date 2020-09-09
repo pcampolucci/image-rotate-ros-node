@@ -1,0 +1,3 @@
+/home/pcampolucci/sgm_study/CMakeFiles/rebuild_cache.dir
+/home/pcampolucci/sgm_study/CMakeFiles/rotate.dir
+/home/pcampolucci/sgm_study/CMakeFiles/edit_cache.dir

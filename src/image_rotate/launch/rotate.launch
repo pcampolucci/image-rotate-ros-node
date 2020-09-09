@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="image_rotate" type="rotate_node" name="rotate_img" output="screen" />
+
+</launch>

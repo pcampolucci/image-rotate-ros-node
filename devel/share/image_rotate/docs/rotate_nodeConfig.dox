@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~angle" : \b [double] image rotation angle min: -90.0, default: -10.0, max: 90.0
+- \b "~shift_a" : \b [int] image shift up upper min: 0, default: 10, max: 200
+- \b "~shift_b" : \b [int] image shift up lower min: 0, default: 10, max: 200
+- \b "~epi_1" : \b [int] epipolar one min: 0, default: 90, max: 700
+- \b "~epi_2" : \b [int] epipolar two min: 0, default: 281, max: 700
+- \b "~epi_3" : \b [int] epipolar three min: 0, default: 470, max: 700
+

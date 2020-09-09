@@ -1,0 +1,2 @@
+image_rotate
+-DCATKIN_DEVEL_PREFIX=/home/pcampolucci/ros_sgm_study/devel -DCMAKE_INSTALL_PREFIX=/home/pcampolucci/ros_sgm_study/install -G Unix Makefiles

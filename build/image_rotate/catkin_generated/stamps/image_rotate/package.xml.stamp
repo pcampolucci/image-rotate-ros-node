@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <!-- Package information -->
+  <name>image_rotate</name>
+  <version>0.0.0</version>
+  <description>This package extracts attributes from nerian messages.</description>
+  <maintainer email="driverless@dutracing.nl">DUT Driverless</maintainer>
+  <author email="driverless@dutracing.nl">DUT Driverless</author>
+  <license>MIT</license>
+  <url type="website">dutracing.nl</url>
+  <!-- /Package information -->
+
+  <!-- Dependencies -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>std_msgs</depend>
+  <depend>roscpp</depend>
+  <depend>visiontransfer</depend>
+  <depend>sensor_msgs</depend>
+  <depend>cv_bridge</depend>
+  <!-- /Dependencies -->
+</package>

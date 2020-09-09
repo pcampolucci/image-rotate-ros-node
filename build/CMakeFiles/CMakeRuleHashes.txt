@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+91fbc0d6848cc5fb61d5c30b96c9f5e8 /home/pcampolucci/ros_sgm_study/devel/include/image_rotate/rotateConfig.h
+378d095a6361584e6faf447320ceaaaa CMakeFiles/clean_test_results
+aefd4f1adab7fbb82b94a7f66ee6628b image_rotate/CMakeFiles/image_rotate_gencfg
